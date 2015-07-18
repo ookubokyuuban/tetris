@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1432600228 source:c:\users\ookubosatan\desktop\a\tetris\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1431387600 source:c:\users\ookubosatan\desktop\pg\tetris\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
